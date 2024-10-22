@@ -7,7 +7,7 @@ Calistatrade — брокер с солидной (более десяти ле�
 * [Medium](https://medium.com/@Calistatrade/calistatrade-%D0%BA%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0%D1%82%D1%80%D0%B5%D0%B9%D0%B4-%D0%BE%D1%82%D0%B7%D1%8B%D0%B2%D1%8B-%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D0%B1%D1%80%D0%BE%D0%BA%D0%B5%D1%80-%D1%82%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%B5%D0%BD-504b8d2c823d);
 * [Teletype](https://teletype.in/@calistatrade/liqnhQwaqaP);
 * [HackMD](https://hackmd.io/@Calistatrade/r1ug-WBxkl);
-* [LinkedIn](https://www.linkedin.com/showcase/calista-trade/).
+* [LinkedIN](https://www.linkedin.com/showcase/calista-trade/).
 
 Для русскоязычной аудитории полезным будет заглянуть в соцсети:
 * Вконтакте;
